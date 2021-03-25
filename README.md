@@ -33,7 +33,7 @@ process.env.SIFYKEY='secret-key'
 ```
 6. Run 11ty
 ```console
-user@website/project-name:~$ npx @11ty/eleventy --serve
+user@website/project-name:~$ npm start
 ```
 
 ## Plans
